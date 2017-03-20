@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Surways</string>
+    <string name="title_new_form">New Form</string>
+    <string name="title_my_forms">My Forms</string>
+</resources>
